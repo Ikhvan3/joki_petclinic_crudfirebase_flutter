@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "927772126724",
+    "firebase_url": "https://pet-clinic-308c9-default-rtdb.firebaseio.com",
+    "project_id": "pet-clinic-308c9",
+    "storage_bucket": "pet-clinic-308c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927772126724:android:db5f9383f8109badd9cf51",
+        "android_client_info": {
+          "package_name": "com.example.app_pet_clinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx9TVzeDukmX4L1cVO7Yyv-MKWxBEocwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927772126724:android:e68b92e3ace90e29d9cf51",
+        "android_client_info": {
+          "package_name": "com.example.pet_clinic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx9TVzeDukmX4L1cVO7Yyv-MKWxBEocwE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
